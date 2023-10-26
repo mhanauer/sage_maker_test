@@ -1,5 +1,6 @@
 # Use an official Python runtime as a parent image
-FROM python:3.7
+FROM python:3.6-slim-buster
+
 
 # Set the working directory
 WORKDIR /usr/src/app
