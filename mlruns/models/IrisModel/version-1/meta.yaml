@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1698769273380
+current_stage: None
+description: null
+last_updated_timestamp: 1698769273380
+name: IrisModel
+run_id: d5ecaa7baed146eca504d7e8d8d69721
+run_link: null
+source: file:///root/sage_maker_test/mlruns/0/d5ecaa7baed146eca504d7e8d8d69721/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///root/sage_maker_test/mlruns/0/d5ecaa7baed146eca504d7e8d8d69721/artifacts/model
+user_id: null
+version: 1

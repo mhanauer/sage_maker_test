@@ -1,0 +1,15 @@
+artifact_uri: file:///root/sage_maker_test/mlruns/0/57d6be9fc12d4d9ab4c71ad0f0d64157/artifacts
+end_time: 1698769287529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57d6be9fc12d4d9ab4c71ad0f0d64157
+run_name: calm-hog-118
+run_uuid: 57d6be9fc12d4d9ab4c71ad0f0d64157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698769283968
+status: 3
+tags: []
+user_id: root

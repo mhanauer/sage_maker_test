@@ -1,0 +1,15 @@
+artifact_uri: file:///root/sage_maker_test/mlruns/0/d5ecaa7baed146eca504d7e8d8d69721/artifacts
+end_time: 1698769273472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5ecaa7baed146eca504d7e8d8d69721
+run_name: merciful-asp-284
+run_uuid: d5ecaa7baed146eca504d7e8d8d69721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698769268449
+status: 3
+tags: []
+user_id: root
